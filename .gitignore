@@ -1,4 +1,8 @@
 /to_convert_jpg/*
+!/to_convert_jpg/.gitkeep
 /to_label/*
+!/to_label/.gitkeep
 /to_process/*
+!/to_process/.gitkeep
 /to_remove_duplication/*
+!/to_remove_duplication/.gitkeep
