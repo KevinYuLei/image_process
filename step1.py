@@ -29,5 +29,5 @@ if __name__ == '__main__':
     convert_images_to_jpg(convert_exp_dir)
     
     copy_to_dir(convert_exp_dir, label_exp_dir)
-    # 之后再label_exp_dir内进行labelme标注，标注后运行step2.py
+    # 之后再label_exp_dir内进行labelme标注，全部标注完成后运行step2.py
     

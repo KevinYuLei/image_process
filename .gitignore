@@ -1,4 +1,4 @@
-/to_convert_jpg
-/to_label
-/to_process
-/to_remove_duplication
+/to_convert_jpg/*
+/to_label/*
+/to_process/*
+/to_remove_duplication/*

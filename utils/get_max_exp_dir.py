@@ -13,7 +13,7 @@ def get_max_exp_dir(base_dir):
             if index > max_index:
                 max_index = index
                 max_dir = folder
-    return max_dir
+    return os.path.join(base_dir, max_dir)
 
 
 if __name__ == '__main__':
